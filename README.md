@@ -1,6 +1,6 @@
 # Parking Spot Detection System
 
-![System Overview](static/results/sample_result.jpg)
+![System Overview](static/results/result_Screenshot_2025-07-20_224911.png)
 
 ## Overview
 
@@ -104,8 +104,8 @@ parking-system/
 ## Sample Data
 
 Sample images are provided in:
-- `static/uploads/sample.jpg` - Example parking lot
-- `static/masks/sample_mask.png` - Corresponding mask
+- `static/uploads/parking_image_test.png` - Example parking lot
+- `static/masks/mask_1920_1080.png` - Corresponding mask
 
 ---
 
